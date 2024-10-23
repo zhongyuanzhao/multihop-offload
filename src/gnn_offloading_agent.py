@@ -34,7 +34,7 @@ from spektral.utils import sp_matrix_to_sp_tensor, reorder
 from spektral.transforms import LayerPreprocess
 # Graph utility
 from util import all_pairs_shortest_paths
-from graph_util import *
+# from graph_util import *
 import warnings
 warnings.filterwarnings('ignore')
 
